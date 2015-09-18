@@ -1,0 +1,1 @@
+1. mysql登录（有密码的情况） `mysql -u root -p`
