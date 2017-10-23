@@ -27,8 +27,8 @@
 
 ## 专业技能
 
-1. 熟练掌握 `Java` 语言开发，熟悉Java Web开发流程，熟练使用 `SpringMVC`、`Spring`、`Mybatis` 框架开发，了解过Spring的实现原理并[归纳总结](http://ihave.news/categories/java-framework/)
-2. 了解并整理二十三种常用`设计模式`，[github项目地址](https://github.com/RayKr/designmodels/tree/master/src/com/swroom)
+1. 熟练掌握 `Java` 语言开发，熟悉Java Web开发流程，熟练使用 `SpringMVC`、`Spring`、`Mybatis` 框架开发，了解过Spring的实现原理并[归纳总结](http://ihave.news/categories/java-framework/)。
+2. 了解并整理二十三种常用`设计模式`，[github项目地址](https://github.com/RayKr/designmodels/tree/master/src/com/swroom)。
 3. 熟悉 `oracle` 和 `mysql` 数据库的使用，熟练掌握编写SQL语句，并通过了OCA考试第一门。
 4. 熟悉 `Weblogic` 和 `Tomcat` 应用服务器的部署。
 5. 熟悉 `SVN` 和 `Git` 版本控制工具。
